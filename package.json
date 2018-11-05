@@ -1,9 +1,7 @@
 {
   "name": "@aredridel/css-scroll-snap-polyfill",
   "version": "0.1.3-modern-detection.0",
-  "main": "dist/css-scroll-snap-polyfill.cjs.js",
-  "module": "dist/css-scroll-snap-polyfill.esm.js",
-  "browser": "dist/css-scroll-snap-polyfill.umd.js",
+  "main": "dist/css-scroll-snap-polyfill.esm.js",
   "dependencies": {
     "polyfill": "^0.1.0"
   },
