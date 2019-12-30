@@ -26,7 +26,7 @@
     "rollup-plugin-uglify": "^2.0.1"
   },
   "scripts": {
-    "prepublish": "npm run build",
+    "prepare": "npm run build",
     "build": "rimraf ./dist && rollup -c",
     "dev": "rollup -c -w",
     "lint": "eslint ."
